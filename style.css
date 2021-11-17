@@ -1,9 +1,10 @@
 .area {
     padding: 1rem 2rem 1rem;
-    border: dotted;
+    border: double;
     background: white;
     margin: 40px;
     text-align: center;
+    font-size: 25px;
 }
 
 h1 {
