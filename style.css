@@ -9,10 +9,15 @@
 
 h1 {
     text-align: center;
-    margin-top: 0;
+    font-size: 100px;
+    font-family: monospace;
+}
+
+.page_align {
+    display: flex;
+    flex-direction: column;
 }
 
 .align {
-    text-align: center;
-    font-size: 25px;
+    margin-right: 0;
 }
