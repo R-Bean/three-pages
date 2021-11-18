@@ -22,3 +22,38 @@ h1 {
     margin-right: 2rem;
     font-size: 40px;
 }
+
+.wood-img {
+    color: blue;
+    text-align: center;
+    font-size: 9rem;
+    background-image: url(https://i.pinimg.com/originals/24/15/f9/2415f94e8e6b147438aac305f34cb7a8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wet-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.cave-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.page-1 {
+    background: green;
+}
+
+.page-2 {
+    background: aqua;
+}
+
+.page-3 {
+    background: grey;
+}
