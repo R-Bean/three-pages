@@ -15,9 +15,10 @@ h1 {
 
 .page_align {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
 }
 
 .align {
-    margin-right: 0;
+    margin-right: 2rem;
+    font-size: 40px;
 }
